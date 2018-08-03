@@ -1,3 +1,3 @@
-# clearbank-developer-test
+# clearbank developer test
 
 C# Developer test for Clear Bank
